@@ -9,15 +9,18 @@ Hello 👋🏾, my name is Silvano Pimentel, also known as Sky or SkyG0D. I live
 
 <img width=300 align="right"  src="programming.gif" />
 
-<br />
-<br />
-<br />
-
 - 🌱 I’m currently learning Angular, Spring and Sass.
 - 💬 Ask me about everything.
 - 📫 How to reach me: silvanosilvino@hotmail.com :email:.
 - ⚡ Fun fact: At first I watched programming videos to sleep :sweat_smile:.
 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 <p align="right" >
@@ -30,14 +33,14 @@ Hello 👋🏾, my name is Silvano Pimentel, also known as Sky or SkyG0D. I live
 ---
 
 
-<p>
+<p align="center" >
   <a href="https://github.com/SkyG0D/github-readme-stats)" >
-  <img src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
+  </a> &nbsp;
 
-<a href="https://github.com/SkyG0D/github-readme-stats)" >
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyG0D&show_icons=true&theme=dracula&layout=compact" />
-</a>  
+  <a href="https://github.com/SkyG0D/github-readme-stats)" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyG0D&show_icons=true&theme=dracula&layout=compact" />
+  </a>  
 </p>
 
 ---
