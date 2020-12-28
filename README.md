@@ -6,17 +6,15 @@
 Hello 👋🏾, my name is Silvano Pimentel, also known as Sky or SkyG0D. I live in Brazil :brazil:.
 Currently studying to become a programmer :computer:.
 
+<br />
+<br />
+<br />
+
 - 🌱 I’m currently learning Angular, Spring and Sass.
 - 💬 Ask me about everything.
 - 📫 How to reach me: silvanosilvino@hotmail.com :email:.
 - ⚡ Fun fact: At first I watched programming videos sleeping :sweat_smile:.
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 
 ---
@@ -34,13 +32,6 @@ Currently studying to become a programmer :computer:.
     <img src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
   </a>
 </p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
@@ -67,17 +58,3 @@ Currently studying to become a programmer :computer:.
 ---
 
 <h2 align="center" ><i>:purple_heart: Learning is incredible :purple_heart:</i></h2>
-
-<!--
-**SkyG0D/SkyG0D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
