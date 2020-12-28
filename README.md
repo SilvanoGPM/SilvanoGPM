@@ -1,9 +1,11 @@
 <h2 align="center" >Welcome to my repository :smiley:</h2>
 
-Hello 👋🏾, my name is Silvano Pimentel, also known as Sky or SkyG0D. I live in Brazil :brazil:.
-Currently studying to become a programmer :computer:.
-
-### About me
+<p>
+Hello 👋🏾, my name is Silvano Pimentel, also known as Sky or SkyG0D. I live in Brazil :brazil:.  
+</p>
+<p>
+  Currently studying to become a programmer :computer:.
+</p>
 
 <img width=300 align="right"  src="programming.gif" />
 
@@ -18,38 +20,31 @@ Currently studying to become a programmer :computer:.
 
 <br />
 
----
-
-### :gem: Social
-
-<p align="center" >
-  <img src="https://img.shields.io/badge/-Github-191919?&style=for-the-badge&logo=Github" />
+<p align="right" >
+  <img src="https://img.shields.io/badge/-Github-191919?&style=for-the-badge&logo=Github" />&nbsp;
   <img src="https://img.shields.io/badge/-Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=fff" />&nbsp;
-  <img src="https://img.shields.io/badge/-CodePen-191919?&style=for-the-badge&logo=CodePen" />
-  <img src="https://img.shields.io/badge/-Twitter-fff?&style=for-the-badge&logo=Twitter" />
+  <img src="https://img.shields.io/badge/-CodePen-191919?&style=for-the-badge&logo=CodePen" />&nbsp;
+  <img src="https://img.shields.io/badge/-Twitter-fff?&style=for-the-badge&logo=Twitter" />&nbsp;
 </p>
 
 ---
 
-### :gem: My Stats
-
-<p align="center" >
-  <a href="https://github.com/SkyG0D/github-readme-stats)" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyG0D&show_icons=true&theme=dracula&layout=compact" />
-  </a>
-</p>
-
-<p align="center" >
-  <a href="https://github.com/SkyG0D/github-readme-stats)" >
-    <img src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
-  </a>
-</p>
-
----
-
-### :hammer: Programming languages and tools
 
 <p>
+  <a href="https://github.com/SkyG0D/github-readme-stats)" >
+  <img src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
+</a>
+
+<a href="https://github.com/SkyG0D/github-readme-stats)" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyG0D&show_icons=true&theme=dracula&layout=compact" />
+</a>  
+</p>
+
+---
+
+<p>
+  
+   <p align="center" >:hammer: Programming languages and tools</p>
   
    <p align="center">
     <img src="https://img.shields.io/badge/-Java-FF6E96?&logo=Java&logoColor=fff" />&nbsp;
