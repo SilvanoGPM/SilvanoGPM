@@ -1,10 +1,11 @@
 <h2 align="center" >Welcome to my repository :smiley:</h2>
 
-
-<img width=300 align="right"  src="programming.gif" />
-
 Hello 👋🏾, my name is Silvano Pimentel, also known as Sky or SkyG0D. I live in Brazil :brazil:.
 Currently studying to become a programmer :computer:.
+
+### About me
+
+<img width=300 align="right"  src="programming.gif" />
 
 <br />
 <br />
@@ -13,13 +14,24 @@ Currently studying to become a programmer :computer:.
 - 🌱 I’m currently learning Angular, Spring and Sass.
 - 💬 Ask me about everything.
 - 📫 How to reach me: silvanosilvino@hotmail.com :email:.
-- ⚡ Fun fact: At first I watched programming videos sleeping :sweat_smile:.
+- ⚡ Fun fact: At first I watched programming videos to sleep :sweat_smile:.
 
 <br />
 
 ---
 
-<h3 align="center" >:gem: My Stats</h3>
+### :gem: Social
+
+<p align="center" >
+  <img src="https://img.shields.io/badge/-Github-191919?&style=for-the-badge&logo=Github" />
+  <img src="https://img.shields.io/badge/-Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=fff" />&nbsp;
+  <img src="https://img.shields.io/badge/-CodePen-191919?&style=for-the-badge&logo=CodePen" />
+  <img src="https://img.shields.io/badge/-Twitter-fff?&style=for-the-badge&logo=Twitter" />
+</p>
+
+---
+
+### :gem: My Stats
 
 <p align="center" >
   <a href="https://github.com/SkyG0D/github-readme-stats)" >
@@ -35,23 +47,23 @@ Currently studying to become a programmer :computer:.
 
 ---
 
-<h3 align="center" >:hammer: Programming languages and tools</h3>
+### :hammer: Programming languages and tools
 
 <p>
   
    <p align="center">
-    <img src="https://img.shields.io/badge/-Java-FF6E96?&logo=Java&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-Spring-7B1FA2?&logo=Spring&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-JavaScript-FF6E96?&logo=JavaScript&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-TypeScript-7B1FA2?&logo=TypeScript&logoColor=fff" />
+    <img src="https://img.shields.io/badge/-Java-FF6E96?&logo=Java&logoColor=fff" />&nbsp;
+    <img src="https://img.shields.io/badge/-Spring-7B1FA2?&logo=Spring&logoColor=fff" />&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-FF6E96?&logo=JavaScript&logoColor=fff" />&nbsp;
+    <img src="https://img.shields.io/badge/-TypeScript-7B1FA2?&logo=TypeScript&logoColor=fff" />&nbsp;
    </p>
   
    <p align="center">
-    <img src="https://img.shields.io/badge/-HTML5-FF6E96?&logo=HTML5&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-CSS3-FF6E96?&logo=CSS3&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-Sass-7B1FA2?&logo=Sass&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-MySql-7B1FA2?&logo=MySql&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-Git-7B1FA2?&logo=Git&logoColor=fff" />
+    <img src="https://img.shields.io/badge/-HTML5-FF6E96?&logo=HTML5&logoColor=fff" />&nbsp;
+    <img src="https://img.shields.io/badge/-CSS3-FF6E96?&logo=CSS3&logoColor=fff" />&nbsp;
+    <img src="https://img.shields.io/badge/-Sass-7B1FA2?&logo=Sass&logoColor=fff" />&nbsp;
+    <img src="https://img.shields.io/badge/-MySql-7B1FA2?&logo=MySql&logoColor=fff" />&nbsp;
+    <img src="https://img.shields.io/badge/-Git-7B1FA2?&logo=Git&logoColor=fff" />&nbsp;
    </p>
 <p>
 
