@@ -1,4 +1,4 @@
-<h2 align="center" >Welcome to my repository :smiley:</h2>
+<h2 align="center" >Welcome to my profile :smiley:</h2>
 
 <p>
 
