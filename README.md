@@ -33,11 +33,11 @@
 
 <p align="center" >
   <a href="https://github.com/SkyG0D/github-readme-stats)" >
-    <img src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
+    <img width=470 src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
   </a> &nbsp;
 
   <a href="https://github.com/SkyG0D/github-readme-stats)" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyG0D&show_icons=true&theme=dracula&layout=compact" />
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyG0D&show_icons=true&theme=dracula&layout=compact" />
   </a>  
 </p>
 
