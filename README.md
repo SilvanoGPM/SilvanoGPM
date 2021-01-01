@@ -9,7 +9,7 @@
 
 
   - 🌱 I’m currently learning Angular, Spring and Sass.
-  - 💬 Ask me about everything.
+  - 💬 Ask me about: **Java** and **Javascript**.
   - 📫 How to reach me: silvanosilvino@hotmail.com :email:.
   - ⚡ Fun fact: At first I watched programming videos to sleep :sweat_smile:.
 
