@@ -51,7 +51,7 @@
    <p align="center" >:hammer: Programming languages and tools</p>
   
    <p align="center">
-    <img src="https://img.shields.io/badge/-Java-ff79c6?style=for-the-badge&logo=appveyor&logo=Java&logoColor=fff" />&nbsp;
+    <img src="https://img.shields.io/badge/-Java-ff79c6?style=for-the-badge&logo=Java&logoColor=fff" />&nbsp;
     <img src="https://img.shields.io/badge/-Spring-bd93f9?style=for-the-badge&logo=Spring&logoColor=fff" />&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-ff79c6?style=for-the-badge&logo=JavaScript&logoColor=fff" />&nbsp;
     <img src="https://img.shields.io/badge/-TypeScript-bd93f9?style=for-the-badge&logo=TypeScript&logoColor=fff" />&nbsp;
