@@ -50,20 +50,19 @@
   
   <p align="center" >:hammer: Programming languages and tools</p>
   
-  <p align="center" >
-  
-   <p width=100 align="center">
-      <img width=100 src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=fff" />&nbsp;
-      <img width=100 src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff" />&nbsp;
-      <img width=100 src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=fff" />&nbsp;
-      <img width=100 src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=fff" />&nbsp;
-      <img width=100 src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff" />&nbsp;
-      <img width=100 src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff" />&nbsp;
-      <img width=100 src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff" />&nbsp;
-      <img width=100 src="https://img.shields.io/badge/-MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=fff" />&nbsp;
-      <img width=100 src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff" />&nbsp;
+   <p align="center">
+      <img height=40 src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=fff" />&nbsp;
+      <img height=40 src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff" />&nbsp;
+      <img height=40 src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff" />&nbsp;
+      <br />
+      <img height=40 src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=fff" />&nbsp;
+      <img height=40 src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff" />&nbsp;
+      <img height=40 src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff" />&nbsp;
+      <br />
+      <img height=40 src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff" />&nbsp;
+      <img height=40 src="https://img.shields.io/badge/-MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=fff" />&nbsp;
+      <img height=40 src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=fff" />&nbsp;
     </p>
-   <p>
   
 <p>
 
