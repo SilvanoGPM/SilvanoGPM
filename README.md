@@ -22,10 +22,10 @@
   <br />  
 
   <p align="right" >
-    <img src="https://img.shields.io/badge/-Github-191919?&style=for-the-badge&logo=Github" />&nbsp;
-    <img src="https://img.shields.io/badge/-Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=fff" />&nbsp;
-    <img src="https://img.shields.io/badge/-CodePen-191919?&style=for-the-badge&logo=CodePen" />&nbsp;
-    <img src="https://img.shields.io/badge/-Twitter-fff?&style=for-the-badge&logo=Twitter" />&nbsp;
+    <a href=https://github.com/SkyG0D ><img src="https://img.shields.io/badge/-Github-191919?&style=for-the-badge&logo=Github" /></a>&nbsp;
+    <a href="https://codepen.io/SkyG0D" ><img src="https://img.shields.io/badge/-CodePen-191919?&style=for-the-badge&logo=CodePen" /></a>&nbsp;
+    <a href="https://twitter.com/Sky_G0D_" ><img src="https://img.shields.io/badge/-Twitter-fff?&style=for-the-badge&logo=Twitter" /></a>&nbsp;
+    <a href="https://steamcommunity.com/id/skyg0d/" ><img src="https://img.shields.io/badge/-Steam-000?&style=for-the-badge&logo=Steam" /></a>&nbsp;
   </p> 
   
 </p>
