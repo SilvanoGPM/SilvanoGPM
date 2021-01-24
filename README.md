@@ -36,12 +36,12 @@
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img width=400 src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
-  </a> &nbsp;
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" >
     <img width=335 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyG0D&show_icons=true&theme=dracula&layout=compact" />
-  </a>  
+  </a> &nbsp; 
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats" >
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
+  </a>
 </p>
 
 ---
