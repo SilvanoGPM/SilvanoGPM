@@ -1,17 +1,17 @@
-<h2 align="center" >Welcome to my profile :smiley:</h2>
+<h2 align="center" >Bem vindo ao meu perfil :smiley:</h2>
 
 <p>
 
   <img width=300 align="right"  src="programming.gif" />
 
-  Hello 👋🏾, my name is Silvano Pimentel, also known as Sky or SkyG0D. I live in Brazil :brazil:.  
-  Currently studying to become a programmer :computer:.
+  Olá 👋🏾, meu nome é Silvano Pimentel, também conhecido como Sky ou SkyG0D. Eu moro no Brasil :brazil:.  
+  Atualmente estudando para ser programador :computer:.
 
 
-  - 🌱 I’m currently learning Spring.
-  - 💬 Ask me about: **Java** and **Javascript**.
-  - 📫 How to reach me: silvanosilvino@hotmail.com :email:.
-  - ⚡ Fun fact: At first I watched programming videos to sleep :sweat_smile:.
+  - 🌱 Atualemente estou aprendendo Spring e React.
+  - 💬 Me pergunte sobre: **Java** e **Javascript**.
+  - 📫 Como me encontrar: silvanosilvino@hotmail.com :email:.
+  - ⚡ Fato engraçado: No começo eu assistia vídeos de programação para dormir :sweat_smile:.
 
   <br />
   <br />
@@ -48,7 +48,7 @@
 
 <p>
   
-  <p align="center" >:hammer: Programming languages and tools</p>
+  <p align="center" >:hammer: Linguaguens de programação e ferramentas</p>
   
    <p align="center">
       <img height=40 src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=fff" />&nbsp;
