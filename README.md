@@ -30,8 +30,6 @@
   
 </p>
 
-<img height=400 width=1280 src="skyg0d.png" />
-
 ---
 
 <p align="center" >
