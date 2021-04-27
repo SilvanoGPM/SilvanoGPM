@@ -4,9 +4,9 @@
 
   <img width=300 align="right"  src="programming.gif" />
 
-  Olá 👋🏾, meu nome é Silvano Marques, também conhecido como Sky. 
-  Eu moro no Brasil :brazil:.  
-  Atualmente estudando para ser programador :computer:.
+  Olá 👋🏾, meu nome é Silvano Marques, também conhecido como Sky. <br />
+  Eu moro no Brasil :brazil:.  <br />
+  Atualmente estudando para ser programador :computer:. <br />
 
   - 🌱 Atualmente estou aprendendo Spring e React.
   - 💬 Me pergunte sobre: **Java** e **Javascript**.
