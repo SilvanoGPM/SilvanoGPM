@@ -8,7 +8,7 @@
   Eu moro no Brasil :brazil:.  <br />
   Atualmente estudando para ser programador :computer:. <br />
 
-  - 🌱 Atualmente estou aprendendo Spring e React.
+  - 🌱 Atualmente estou aprendendo PHP e React.
   - 💬 Me pergunte sobre: **Java** e **Javascript**.
   - 📫 Como me encontrar: silvanosilvino1@gmail.com :email:.
   - ⚡ Fato engraçado: No começo eu assistia vídeos de programação para dormir :sweat_smile:.
