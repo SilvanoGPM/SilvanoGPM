@@ -53,7 +53,7 @@
        <img title="HTML5" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
        <img title="CSS3" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp; 
        <img title="SASS" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;&nbsp;
-       <img title="PHP" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
+       <img title="PHP" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
        <img title="Java" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp; 
        <img title="Spring" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;&nbsp; 
        <img title="Git" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp; 
