@@ -30,11 +30,11 @@
 ---
 
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats" >
+  <a href="#" >
     <img width=335 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyG0D&show_icons=true&theme=dracula&layout=compact" />
   </a> &nbsp; 
   
-  <a href="https://github.com/anuraghazra/github-readme-stats" >
+  <a href="#" >
     <img width=400 src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
   </a>
 </p>
