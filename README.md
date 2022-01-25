@@ -39,6 +39,10 @@
   </a>
 </p>
 
+<div align="center">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SkyG0D&theme=dracula&hide_border=true"/>
+  </div>
+
 ---
 
 <p>
