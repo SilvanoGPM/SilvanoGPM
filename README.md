@@ -8,7 +8,7 @@
   Eu moro no Brasil :brazil:.  <br />
   Atualmente estudando para ser programador :computer:. <br />
 
-  - 🌱 Atualmente estou aprendendo React Native.
+  - 🌱 Atualmente estou aprendendo NextJS.
   - 💬 Me pergunte sobre: **Java** e **Javascript**.
   - 📫 Como me encontrar: silvanosilvino1@gmail.com :email:.
   - ⚡ Fato engraçado: No começo eu assistia vídeos de programação para dormir :sweat_smile:.
@@ -67,11 +67,6 @@
    </p>
     
 <p>
-
-<h2 align="center">:eyes: Contador de visitas</h2>
-<p align="center"> 
- <img alingn="center" src="https://profile-counter.glitch.me/SkyG0D/count.svg" />
-</p>
   
 ---
 
