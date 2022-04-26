@@ -1,5 +1,5 @@
 <h2 align="center" >Bem vindo ao meu perfil :smiley:</h2>
-
+<p align="right"><code>> Hello world</code></p>
 <p>
 
   <img width=300 align="right"  src="programming.gif" />
@@ -70,4 +70,4 @@
   
 ---
 
-<h2 align="center" ><i>:purple_heart: Learning is amazing :purple_heart:</i></h2>
+<h2 align="right" ><i>:purple_heart: Learning is amazing :purple_heart:</i></h2>
