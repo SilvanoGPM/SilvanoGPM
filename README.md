@@ -1,29 +1,27 @@
 <h2 align="center" >Bem vindo ao meu perfil :smiley:</h2>
-<p align="right"><code>> Hello world</code></p>
+
 <p>
 
+Olá 👋🏾, meu nome é Silvano Marques, também conhecido como Sky. <br />
+Eu moro no Brasil :brazil:.  <br />
+Atualmente estudando para ser programador :computer:. <br />
+
+- 🌱 Atualmente estou aprendendo NextJS.
+- 💬 Me pergunte sobre: **Java** e **Javascript**.
+- 📫 Como me encontrar: silvanosilvino1@gmail.com :email:.
+- ⚡ Fato engraçado: No começo eu assistia vídeos de programação para dormir :sweat_smile:.
+  
+
+<p align="right"><code>> Hello world</code></p> 
+  
+<p align="right">
   <img width=300 align="right"  src="programming.gif" />
-
-  Olá 👋🏾, meu nome é Silvano Marques, também conhecido como Sky. <br />
-  Eu moro no Brasil :brazil:.  <br />
-  Atualmente estudando para ser programador :computer:. <br />
-
-  - 🌱 Atualmente estou aprendendo NextJS.
-  - 💬 Me pergunte sobre: **Java** e **Javascript**.
-  - 📫 Como me encontrar: silvanosilvino1@gmail.com :email:.
-  - ⚡ Fato engraçado: No começo eu assistia vídeos de programação para dormir :sweat_smile:.
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-  <p align="right" >
-    <a href="https://codepen.io/SkyG0D" ><img src="https://img.shields.io/badge/-CodePen-191919?&style=for-the-badge&logo=CodePen" /></a>&nbsp;
-    <a href="https://steamcommunity.com/id/skyg0d/" ><img src="https://img.shields.io/badge/-Steam-000?&style=for-the-badge&logo=Steam" /></a>&nbsp;
-  </p> 
+</p>  
+  
+<p align="right" >
+  <a href="https://codepen.io/SkyG0D" ><img src="https://img.shields.io/badge/-CodePen-191919?&style=for-the-badge&logo=CodePen" /></a>&nbsp;
+  <a href="https://steamcommunity.com/id/skyg0d/" ><img src="https://img.shields.io/badge/-Steam-000?&style=for-the-badge&logo=Steam" /></a>&nbsp;
+</p> 
   
 </p>
 
