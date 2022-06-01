@@ -17,13 +17,6 @@ Atualmente estudando para ser programador :computer:. <br />
 <p align="right">
   <img width=300 align="right"  src="programming.gif" />
 </p>  
-  
-<p align="right" >
-  <a href="https://codepen.io/SkyG0D" ><img src="https://img.shields.io/badge/-CodePen-191919?&style=for-the-badge&logo=CodePen" /></a>&nbsp;
-  <a href="https://steamcommunity.com/id/skyg0d/" ><img src="https://img.shields.io/badge/-Steam-000?&style=for-the-badge&logo=Steam" /></a>&nbsp;
-</p> 
-  
-</p>
 
 <br />
 <br />
@@ -36,6 +29,15 @@ Atualmente estudando para ser programador :computer:. <br />
 <br />
 <br />
 <br />
+<br />
+<br />
+
+<p align="right" >
+  <a href="https://codepen.io/SkyG0D" ><img src="https://img.shields.io/badge/-CodePen-191919?&style=for-the-badge&logo=CodePen" /></a>&nbsp;
+  <a href="https://steamcommunity.com/id/skyg0d/" ><img src="https://img.shields.io/badge/-Steam-000?&style=for-the-badge&logo=Steam" /></a>&nbsp;
+</p> 
+  
+</p>
 
 ---
 
