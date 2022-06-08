@@ -82,4 +82,4 @@ Atualmente estudando para ser programador :computer:. <br />
   
 ---
 
-<h2 align="right" ><i>:purple_heart: Learning is amazing :purple_heart:</i></h2>
+<h2 align="center" ><i>:purple_heart: Learning is amazing :purple_heart:</i></h2>
