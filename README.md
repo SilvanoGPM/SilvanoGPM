@@ -4,7 +4,7 @@
 
 Olá 👋🏾, meu nome é Silvano Marques, também conhecido como Sky. <br />
 Eu moro no Brasil :brazil:.  <br />
-Atualmente estudando para ser programador :computer:. <br />
+Programador Web :computer: <br />
 
 - 🌱 Atualmente estou aprendendo NextJS.
 - 💬 Me pergunte sobre: **Java** e **Javascript**.
