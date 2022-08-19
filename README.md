@@ -60,6 +60,7 @@ Programador Web :computer: <br />
 <p>
   
   <h2 align="center" >:hammer: Linguaguens de programação e ferramentas</h2>
+  <p align="center">(Deixe o mouse em cima para ver o nome da tecnologia)</p>
   
    <p align="center" width="500">
       <img title="JavaScript" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp; 
@@ -74,7 +75,8 @@ Programador Web :computer: <br />
        <img title="Java" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp; 
        <img title="Spring" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;&nbsp; 
        <img title="Git" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp; 
-       <img title="Github" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp; 
+       <img title="Github" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
+       <img title="Godot" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />&nbsp;&nbsp;
        <img title="Intellij Idea" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />&nbsp;&nbsp; 
        <img title="VSCode" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
    </p>
