@@ -2,7 +2,7 @@
 
 <p>
 
-Olá 👋🏾, meu nome é Silvano Marques, também conhecido como Sky. <br />
+Olá 👋🏾, meu nome é Silvano Marques. <br />
 Eu moro no Brasil :brazil:.  <br />
 Programador Web :computer: <br />
 
