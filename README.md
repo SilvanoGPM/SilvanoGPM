@@ -1,9 +1,9 @@
 <h2 align="center" >Bem vindo ao meu perfil :smiley:</h2>
 
 <p align="center" >
-  <img width=335 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyG0D&show_icons=true&theme=dracula&layout=compact" />
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=SkyG0D&show_icons=true&theme=dracula" />
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=SkyG0D&theme=dracula&hide_border=true"/>
+  <img width=335 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanoGPM&show_icons=true&theme=dracula&layout=compact" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=SilvanoGPM&show_icons=true&theme=dracula" />
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=SilvanoGPM&theme=dracula&hide_border=true"/>
 </p>
 
 ---
