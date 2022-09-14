@@ -10,7 +10,7 @@
 
 <p>
   
-  <h2 align="center" >:hammer: Linguaguens de programação e ferramentas</h2>
+  <h2 align="center" >:hammer: Tecnologias</h2>
   <p align="center">(Deixe o mouse em cima para ver o nome da tecnologia)</p>
   
    <p align="center" width="500">
