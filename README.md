@@ -1,17 +1,11 @@
-<h2 align="center" >Bem vindo ao meu perfil :smiley:</h2>
+<h2>Bem vindo ao meu perfil <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /></h2>
 
-<p align="center" >
-  <img width=335 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanoGPM&show_icons=true&theme=dracula&layout=compact" />
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=SilvanoGPM&show_icons=true&theme=dracula" />
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=SilvanoGPM&theme=dracula&hide_border=true"/>
-</p>
-
----
+Atualmente estou cursando Desenvolvimento de Sistemas 💻 trabalhando em alguns projetos pessoais e em busca de oportunidades para entrar no mercado de programação 😃.
 
 <p>
   
-  <h2 align="center" >:hammer: Tecnologias</h2>
-  <p align="center">(Deixe o mouse em cima para ver o nome da tecnologia)</p>
+  <h2>:hammer: Tecnologias</h2>
+  <p>Algumas das tecnologias que eu utilizo no meu dia a dia(Deixe o mouse em cima para ver o nome da tecnologia)</p>
   
    <p align="center" width="500">
       <img title="JavaScript" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp; 
@@ -32,12 +26,40 @@
        <img title="VSCode" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
    </p>
 <p>
+
+<h2>:boy: Sobre mim</h2>
   
-<h2 align="center" >Entre em contato :phone:</h2>
+```java
+public class Person {
+  public String name = "Silvano Marques";
+  public String city = "Garanhuns, PE";
+  
+  public String[] hobbies = {
+    "Jogar Vôlei, Dominó e CSGO", 
+    "Assistir séries de humor", 
+    "Escutar Rap"
+  };
+}
+``` 
 
-- Email: silvanosilvino@hotmail.com
-- [LinkedIn](https://www.linkedin.com/in/silvano-marques-8b964a210/)
+<h2>📫 Como me encontrar?</h2>
+<p>Você pode me encontrar das seguintes formas:</p>
 
----
+<a href="https://www.linkedin.com/in/silvano-marques-8b964a210/">
+    <img align="left" alt="Silvano LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  
+<a href="mailto:silvanosilvino@hotmail.com/">
+    <img align="left" width="40px" src="https://www.svgrepo.com/show/2494/email.svg" />
+  </a>
 
-<h2 align="center" ><i>:purple_heart: Learning is amazing :purple_heart:</i></h2>
+<br />
+<br />
+
+<h2>:octocat: Estátisticas do Github</h2>
+
+<p align="center" >
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=SilvanoGPM&theme=dracula&hide_border=true"/> <br />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanoGPM&show_icons=true&theme=dracula&layout=compact" /> <br />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=SilvanoGPM&show_icons=true&theme=dracula" />
+</p>
