@@ -33,6 +33,11 @@
    </p>
 <p>
   
+<h2 align="center" >Entre em contato :phone:</h2>
+
+- Email: silvanosilvino@hotmail.com
+- [LinkedIn](https://www.linkedin.com/in/silvano-marques-8b964a210/)
+
 ---
 
 <h2 align="center" ><i>:purple_heart: Learning is amazing :purple_heart:</i></h2>
