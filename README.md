@@ -37,7 +37,8 @@ public class Person {
   public String[] hobbies = {
     "Jogar Vôlei, Dominó e CSGO", 
     "Assistir séries de humor", 
-    "Escutar Rap"
+    "Escutar Rap",
+    "Realizer exercícios físicos"
   };
 }
 ``` 
