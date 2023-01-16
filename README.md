@@ -48,12 +48,17 @@ public class Person {
 
 <a href="https://www.linkedin.com/in/silvano-marques-8b964a210/">
     <img align="left" alt="Silvano LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
+</a>
   
 <a href="mailto:silvanosilvino@hotmail.com/">
     <img align="left" width="40px" src="https://www.svgrepo.com/show/2494/email.svg" />
-  </a>
+</a>
 
+
+<a href="https://silvanomarques.vercel.app/">
+    <img align="left" width="40px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+</a>
+  
 <br />
 <br />
 
