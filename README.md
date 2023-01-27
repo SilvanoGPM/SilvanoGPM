@@ -21,7 +21,6 @@ Atualmente estou cursando Desenvolvimento de Sistemas 💻 trabalhando em alguns
        <img title="Spring" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;&nbsp; 
        <img title="Git" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp; 
        <img title="Github" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
-       <img title="Godot" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />&nbsp;&nbsp;
        <img title="Intellij Idea" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />&nbsp;&nbsp; 
        <img title="VSCode" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
    </p>
