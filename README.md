@@ -34,10 +34,9 @@ public class Person {
   public String city = "Garanhuns, PE";
   
   public String[] hobbies = {
-    "Jogar Vôlei, Dominó e CSGO", 
+    "Jogar CSGO, vôlei, dominó.", 
     "Assistir séries de humor", 
-    "Escutar Música",
-    "Realizer exercícios físicos"
+    "Escutar música"
   };
 }
 ``` 
