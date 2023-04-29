@@ -29,7 +29,7 @@ Atualmente estou cursando Desenvolvimento de Sistemas 💻 trabalhando em alguns
 <h2>:boy: Sobre mim</h2>
   
 ```java
-public class Person {
+public class Me {
   public String name = "Silvano Marques";
   public String city = "Garanhuns, PE";
   
