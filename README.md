@@ -46,7 +46,7 @@ public class Me {
 <p>Você pode me encontrar das seguintes formas:</p>
 
 <a href="https://www.linkedin.com/in/silvano-marques-8b964a210/">
-    <img align="left" alt="Silvano LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Silvano LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
   
 <a href="mailto:silvanosilvino@hotmail.com/">
