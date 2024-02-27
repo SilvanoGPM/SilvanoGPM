@@ -84,7 +84,7 @@ const me: Me = {
 <h2>:octocat: Estátisticas do Github</h2>
 
 <p align="center">
-  <img  height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=SilvanoGPM&theme=midnight-purple"/> <br />
-  <img  height=200 src="https://github-readme-stats.vercel.app/api?username=SilvanoGPM&show_icons=true&theme=midnight-purple" />
-  <img  height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanoGPM&show_icons=true&theme=midnight-purple&layout=compact" />
+  <img  height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=SilvanoGPM&theme=midnight-purple"/> <br />
+  <img  height=150 src="https://github-readme-stats.vercel.app/api?username=SilvanoGPM&show_icons=true&theme=midnight-purple" />
+  <img  height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanoGPM&show_icons=true&theme=midnight-purple&layout=compact" />
 </p>
