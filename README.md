@@ -42,6 +42,12 @@ const me: Me = {
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python&theme=dark" />
 </p>
 
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+</p>
+
 ### Ferramentas
 
 <p>
