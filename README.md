@@ -19,7 +19,7 @@ const me: Me = {
   city: "Garanhuns, PE",
   email: "silvanosilvino@hotmail.com",
   linkedin: "https://www.linkedin.com/in/silvano-marques-8b964a210",
-  website: "https://silvanomarques.vercel.app",
+  website: "https://www.silvanomarques.com.br",
   hobbies: ["Academia", "Games", "Vôlei", "Séries de humor", "Músicas"],
   working: true,
   studying: true
