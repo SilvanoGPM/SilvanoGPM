@@ -65,7 +65,7 @@ const me: Me = {
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
 </a>
 
-<a href="https://silvanomarques.vercel.app/">
+<a href="https://www.silvanomarques.com.br/">
    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
 </a>
 
