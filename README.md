@@ -3,22 +3,11 @@
 <h2>:boy: Sobre mim</h2>
 
 ```ts
-interface Me {
-  name: string;
-  city: string;
-  email: string;
-  linkedin: string;
-  website: string;
-  hobbies: string[];
-  working: boolean;
-  studying: boolean;
-}
-
-const me: Me = {
+const me = {
   name: "Silvano Marques",
   city: "Garanhuns, PE",
   email: "silvanosilvino@hotmail.com",
-  linkedin: "https://www.linkedin.com/in/silvano-marques-8b964a210",
+  linkedin: "https://www.linkedin.com/in/silvano-marques",
   website: "https://www.silvanomarques.com.br",
   working: true,
   studying: true
@@ -50,31 +39,12 @@ const me: Me = {
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker&theme=dark" />
 </p>
 
 <h2>📫 Como me encontrar?</h2>
-<p>Você pode me encontrar das seguintes formas:</p>
+<p>Você pode me encontrar entrando em contato por qualquer um desses canais:</p>
 
-<a href="https://www.linkedin.com/in/silvano-marques-8b964a210/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-</a>
-  
-<a href="mailto:silvanosilvino@hotmail.com/">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-</a>
+[![LINKEDIN](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/silvano-marques)
+[![GMAIL](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:silvanosilvino@hotmail.com)
 
-<a href="https://www.silvanomarques.com.br/">
-   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
-</a>
-
-<br />
-<br />
-
-<h2>:octocat: Estátisticas do Github</h2>
-
-<p align="center">
-  <img  height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=SilvanoGPM&theme=midnight-purple"/> <br />
-  <img  height=150 src="https://github-readme-stats.vercel.app/api?username=SilvanoGPM&show_icons=true&theme=midnight-purple" />
-  <img  height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanoGPM&show_icons=true&theme=midnight-purple&layout=compact" />
-</p>
