@@ -1,4 +1,4 @@
-<a alt="Olá, seja bem vindo!" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5C00F7&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!" /></a>
+<a alt="Olá, seja bem vindo!" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=f97316&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!" /></a>
 
 <h2>:boy: Sobre mim</h2>
 
